@@ -1,2 +1,2 @@
 # mini-projects-in-Js
-mini project in Js i do while learning Js
+mini projects in Js i do while learning Js
