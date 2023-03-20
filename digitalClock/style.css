@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,body{
+    height: 100%;
+  }
+  body{
+    display: grid;
+    place-items: center;
+    background: black;
+  }
+  .wrapper{
+    background: rgb(5, 5, 5);
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    padding: 0 30px;
+    box-shadow: -3px -3px 7px rgba(112, 110, 110, 0.5),
+                 3px 3px 5px rgba(112, 110, 110, 0.5);
+  }
+  .wrapper #clockLable{
+    font-size: 60px;
+    color: palevioletred;
+    font-family: 'Orbitron', sans-serif;
+  }
